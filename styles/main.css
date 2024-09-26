@@ -1,5 +1,5 @@
 html{
-    background-image: linear-gradient(to bottom, white 0%, #6c1d43 100%);    
+    background-image: linear-gradient(to bottom, white 0%, palegoldenrod 100%);    
 }
 body {
     font-family: Arial, Helvetica, sans-serif;
@@ -9,7 +9,7 @@ body {
     background-color: white;
     margin: 15px auto;
     padding: 15px 1.5em;
-    border: 1px solid palegoldenrod;
+    border: 1px solid darkmagenta;
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
     background-image: url('../images/simple-flower.png');
