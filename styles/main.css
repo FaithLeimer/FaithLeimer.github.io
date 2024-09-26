@@ -55,8 +55,13 @@ main nav{
     border-radius: 20px;
     box-shadow: 3px 3px 4px 4px rgb(106, 151, 109);
     padding:1em;
-
-
+}
+main div{
+    margin: 1.5em 2em 0em;
+    border: 5px dotted lightskyblue;
+    border-radius: 20px;
+    box-shadow: 3px 3px 4px 4px rgb(106, 151, 109);
+    padding: 1em;
 }
 #list {
     line-height: 1.5em;
