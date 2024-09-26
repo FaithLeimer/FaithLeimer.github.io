@@ -44,9 +44,18 @@ main h3 {
     margin: 3em 2em 1.5em;
     border: 5px double lightskyblue;
     border-radius: 20px;
-    box-shadow: 3px 3px 4px 4px palegoldenrod;
+    box-shadow: 3px 3px 4px 4px rgb(255, 3, 146);
     padding: 1em;
     font-size: 105%;
+}
+main nav{
+    margin: 1.5em 2em 1.5em;
+    border:5px dashed palegoldenrod;
+    border-radius: 20px;
+    box-shadow: 3px 3px 4px 4px rgb(255, 3, 146);
+    padding:1em;
+
+
 }
 #list {
     line-height: 1.5em;
