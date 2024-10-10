@@ -65,7 +65,7 @@ article p::first-letter {
 aside{
     width: 20%;
     float: right;
-    background-color: palegoldenrod;
+    background-color: rgb(238, 215, 170);
     padding: 25px;
 }
 footer{
