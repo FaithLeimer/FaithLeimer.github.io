@@ -12,11 +12,6 @@ body {
     border: 1px solid darkmagenta;
     border-radius: 25px;
     box-shadow: 5px 5px 0 0 darkmagenta;
-    background-image: url('../images/simple-flower.png');
-    background-position: right;
-    background-repeat: repeat-y;
-    background-attachment:fixed;
-    background-size: 250px;
 }
 a:focus, a:hover {
     font-style: italic;
@@ -75,5 +70,5 @@ footer{
 }
 p.fixed {
     width:auto
-    
+
 }
