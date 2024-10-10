@@ -44,6 +44,7 @@ article {
     column-rule:2 px dotted darkmagenta;
     column-gap: 2em;
     margin-left: 2em;
+    border-top: 2px solid darkmagenta;
 }
 article h3{
     column-span:all;
