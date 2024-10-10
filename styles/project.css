@@ -45,7 +45,7 @@ article {
     float:left;
     column-count: 2;
     column-rule-style: dotted 2px darkmagenta;
-    column-gap: 3em;
+    column-gap: 4em;
     margin-left: 2em;
 }
 article h3{
