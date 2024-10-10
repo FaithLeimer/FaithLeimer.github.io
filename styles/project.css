@@ -44,7 +44,7 @@ article {
     width: 70%;
     float:left;
     column-count: 2;
-    column-rule-style: 2px dotted darkmagenta;
+    column-rule-style: dotted 2px darkmagenta;
     column-gap: 2em;
     margin-left: 2em;
 }
