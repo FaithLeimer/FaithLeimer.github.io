@@ -47,7 +47,7 @@ article {
     column-rule-style: dotted;
     column-rule-color: darkmagenta;
     column-rule-width: 3px;
-    column-gap: 8em;
+    column-gap: 2em;
     margin-left: 2em;
 }
 article h3{
