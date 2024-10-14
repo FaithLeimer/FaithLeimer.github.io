@@ -82,9 +82,9 @@ section p.fixed{
     font-size: 90%;
     text-align: center;
     margin-right:-10px;
-    position: relative;
-    top: 90px;
-    left: 50px;
+    position: absolute;
+    bottom: 90px;
+    right: -25px;
     z-index: 3;
 }
 footer{
