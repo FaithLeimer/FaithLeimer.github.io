@@ -75,5 +75,8 @@ footer{
     border-top: 2px solid darkmagenta;
 }
 p.copyright {
+    text-align: center;
+    font-size: 80%;
     width:auto
+    
 }
