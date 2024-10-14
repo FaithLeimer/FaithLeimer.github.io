@@ -79,6 +79,8 @@ section p.fixed{
     border-style:solid;
     font-size: 90%;
     text-align: center;
+    margin-right:-10px;
+    z-index: 2;
 
 
 }
