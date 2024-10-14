@@ -72,7 +72,7 @@ aside{
 }
 section p.fixed{
     float: right;
-    width:70px;
+    width:100px;
     padding:25px;
     border: 5px rgb(102, 183, 255);
     font-size: 75%;
