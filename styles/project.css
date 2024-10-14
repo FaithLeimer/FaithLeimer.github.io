@@ -76,6 +76,7 @@ section p.fixed{
     padding:25px;
     background-color:rgb(155, 201, 240);
     border: 20px rgb(158, 78, 255);
+    border-style:solid;
     font-size: 90%;
     text-align: center;
 
