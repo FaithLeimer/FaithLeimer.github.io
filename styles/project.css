@@ -39,7 +39,7 @@ header{
     border-bottom: 2px solid darkmagenta;
 }
 .shadow {
-    text-shadow: 2px 2px 2px rgb(246, 135, 205);
+    text-shadow: 2px 2px 2px rgb(245, 124, 200);
 }
 article {
     clear: left;
