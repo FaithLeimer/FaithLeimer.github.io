@@ -70,6 +70,11 @@ aside{
     background-color: rgb(238, 215, 170);
     padding: 25px;
 }
+p.fixed{
+    text-align: right;
+    background-color: palegreen;
+    padding: 25px;
+}
 footer{
     clear: both;
     border-top: 2px solid darkmagenta;
