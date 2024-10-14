@@ -80,7 +80,8 @@ section p.fixed{
     font-size: 90%;
     text-align: center;
     margin-right:-10px;
-    z-index: 2;
+    position: relative;
+    z-index: 3;
 
 
 }
