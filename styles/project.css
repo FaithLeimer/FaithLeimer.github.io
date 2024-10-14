@@ -67,7 +67,7 @@ article p::first-letter {
 aside{
     width: 20%;
     float: right;
-    background-color: rgb(238, 215, 170);
+    background-color: rgb(209, 181, 253);
     padding: 25px;
 }
 section p.fixed{
