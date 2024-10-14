@@ -12,6 +12,8 @@ body {
     border: 1px solid darkmagenta;
     border-radius: 25px;
     box-shadow: 5px 5px 0 0 darkmagenta;
+    position:relative;
+    z-index: 1;
 }
 a:focus, a:hover {
     font-style: italic;
