@@ -84,10 +84,8 @@ section p.fixed{
     margin-right:-10px;
     position: relative;
     top: 90px;
-    left: 75px;
+    left: 55px;
     z-index: 3;
-
-
 }
 footer{
     clear: both;
