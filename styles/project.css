@@ -73,7 +73,7 @@ aside{
 footer{
     clear: both;
     border-top: 2px solid darkmagenta;
-    text-align: justify;
+    text-align: center;
     font-size: 80%;
     width:auto
 }
