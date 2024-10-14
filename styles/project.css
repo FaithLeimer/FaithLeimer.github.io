@@ -28,7 +28,7 @@ header h1 {
 }
 header h2 {
     font-size: 130%;
-    color: #800000;
+    color: rgb(240, 165, 212);
     text-indent: 30px;
 }
 header img {
@@ -39,7 +39,7 @@ header{
     border-bottom: 2px solid darkmagenta;
 }
 .shadow {
-    text-shadow: 2px 2px 2px rgb(128, 0, 0);
+    text-shadow: 2px 2px 2px rgb(246, 135, 205);
 }
 article {
     clear: left;
