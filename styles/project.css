@@ -83,6 +83,8 @@ section p.fixed{
     text-align: center;
     margin-right:-10px;
     position: relative;
+    top: 80px;
+    left:80px;
     z-index: 3;
 
 
