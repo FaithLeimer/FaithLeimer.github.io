@@ -116,7 +116,7 @@ article img{
     max-width: 768px;
 }
 footer{
-    border-top: 2px solid orange;
+    border-top: 2px solid #fc8eac;
     text-align: center;
     font-size: .8em;
 }
