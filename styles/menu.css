@@ -2,8 +2,8 @@
     list-style-type: none;
     padding: 1em 0; /* padding above and below li elements */
     text-align: center;
-    border-top: 2px solid darkmagenta;
-    border-bottom: 2px solid darkmagenta; 
+    border-top: 2px solid lightskyblue;
+    border-bottom: 2px solid lightskyblue; 
 }
 
     #nav_menu ul li {
@@ -12,7 +12,7 @@
  }
     #nav_menu ul li a {
     font-weight: bold;
-    color: darkmagenta; 
+    color: rgb(106, 151, 109); 
 }
     #nav_menu ul li a.current { 
         text-decoration: none; 
