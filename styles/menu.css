@@ -17,6 +17,9 @@
     #nav_menu ul li a.current { 
         text-decoration: none; 
     }
+article h2{
+    color:  rgb(106, 151, 109);
+}
 aside ol {
     list-style-type: upper-roman;
 }
