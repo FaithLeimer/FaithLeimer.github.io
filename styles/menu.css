@@ -2,8 +2,8 @@
     list-style-type: none;
     padding: 1em 0; /* padding above and below li elements */
     text-align: center;
-    border-top: 2px solid lightskyblue;
-    border-bottom: 2px solid lightskyblue; 
+    border-top: 2px solid rgb(77, 119, 80);
+    border-bottom: 2px solid rgb(77, 119, 80); 
 }
 
     #nav_menu ul li {
