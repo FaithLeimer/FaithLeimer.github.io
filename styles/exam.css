@@ -80,7 +80,6 @@ body {
         color: rgb(12, 0, 185);
     }
     section aside.fixed{
-        float: right;
         width:250px;
         padding:15px;
         background-color:rgb(115, 176, 204);
@@ -89,8 +88,8 @@ body {
         font-size: 90%;
         text-align: center;
         margin-right:-10px;
-        position: absolute;
-            }
+        position: fixed right;
+    }
     footer {
         text-align: center;
         font-size: 80%;
