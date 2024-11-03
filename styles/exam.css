@@ -79,7 +79,7 @@ body {
         padding: 25px;
         color: rgb(12, 0, 185);
     }
-    #li_aside section{
+    section{
         clear: left;
         float: right;
         width:250px;
