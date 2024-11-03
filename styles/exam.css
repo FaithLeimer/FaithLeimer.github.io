@@ -89,11 +89,8 @@ body {
         font-size: 90%;
         text-align: center;
         margin-right:-10px;
-        position: fixed;
-        bottom: 90px;
-        right: -25px;
-        z-index: 3;
-    }
+        position: absolute;
+            }
     footer {
         text-align: center;
         font-size: 80%;
