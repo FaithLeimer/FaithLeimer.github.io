@@ -55,7 +55,7 @@ body {
     }
     article {
         clear: left;
-        width: 72%;
+        width: 75%;
         float:left;
         column-count: 3;
         column-rule-style: dotted;
@@ -72,14 +72,14 @@ body {
     #analysis_list li{
         list-style-type: lower-alpha;
     }
-    aside{
+    /*aside{
         width: 20%;
         background-color: rgb(115, 176, 204);
         padding: 25px;
         color: rgb(12, 0, 185);
-    }
+    }*/
     section aside.fixed{
-        width:250px;
+        width:20%;
         padding:15px;
         background-color:rgb(115, 176, 204);
         border: 2px rgb(12, 0, 185);
