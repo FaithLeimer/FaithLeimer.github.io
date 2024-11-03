@@ -80,3 +80,7 @@ body {
         position:fixed right;
         color: rgb(12, 0, 185);
     }
+    footer {
+        text-align: center;
+        font-size: 80%;
+    }
