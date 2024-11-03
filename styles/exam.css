@@ -80,6 +80,7 @@ body {
         color: rgb(12, 0, 185);
     }
     #li_aside section{
+        clear: left;
         float: right;
         width:250px;
         padding:15px;
