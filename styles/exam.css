@@ -53,3 +53,12 @@ body {
     article h2{
         color:rgb(12, 75, 46)
     }
+    aside ol {
+        list-style-type: upper-roman;
+    }
+    aside ul{
+        list-style-type:square;
+    }
+    #analysis_list li{
+        list-style-type: lower-alpha;
+    }
