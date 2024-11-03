@@ -67,4 +67,5 @@ body {
         float: right;
         background-color: rgb(115, 176, 204);
         padding: 25px;
+        position:absolute;
     }
