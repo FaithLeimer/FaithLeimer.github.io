@@ -41,6 +41,10 @@ body {
         color: rgb(12, 0, 185);
         font-weight: bold;
     }
+    article img {
+        float:left;
+        margin-left: 2.5em;
+    }
     article p::first-letter {
         font-size: 3em;
         font-weight: bold;
