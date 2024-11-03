@@ -71,6 +71,7 @@ aside{
     float: right;
     background-color: rgb(209, 181, 253);
     padding: 25px;
+    position:absolute;
 }
 section p.fixed{
     float: right;
