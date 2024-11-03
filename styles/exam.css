@@ -79,8 +79,7 @@ body {
         padding: 25px;
         color: rgb(12, 0, 185);
     }
-    /*section aside.fixed{
-        clear: left;
+    section aside.fixed{
         float: right;
         width:250px;
         padding:15px;
@@ -90,11 +89,11 @@ body {
         font-size: 90%;
         text-align: center;
         margin-right:-10px;
-        position: absolute;
+        position: fixed;
         bottom: 90px;
         right: -25px;
         z-index: 3;
-    }*/
+    }
     footer {
         text-align: center;
         font-size: 80%;
