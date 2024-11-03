@@ -79,7 +79,7 @@ body {
         padding: 25px;
         color: rgb(12, 0, 185);
     }
-    section{
+    section aside.fixed{
         clear: left;
         float: right;
         width:250px;
