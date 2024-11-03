@@ -55,7 +55,7 @@ body {
     }
     article {
         clear: left;
-        width: 75%;
+        width: 72%;
         float:left;
         column-count: 3;
         column-rule-style: dotted;
