@@ -72,14 +72,14 @@ body {
     #analysis_list li{
         list-style-type: lower-alpha;
     }
-    /*aside{
+    aside{
         width: 20%;
         background-color: rgb(115, 176, 204);
         padding: 25px;
         color: rgb(12, 0, 185);
-    }*/
+    }
     section aside.fixed{
-        /*width:20%;*/
+        width:20%;
         padding:15px;
         background-color:rgb(115, 176, 204);
         border: 2px rgb(12, 0, 185);
