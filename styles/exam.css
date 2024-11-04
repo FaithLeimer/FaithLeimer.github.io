@@ -54,7 +54,6 @@ body {
         color:rgb(12, 75, 46)
     }
     article {
-        clear: left;
         width: 70%;
         float:left;
         column-count: 3;
