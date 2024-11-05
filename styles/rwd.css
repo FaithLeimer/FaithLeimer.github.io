@@ -90,7 +90,7 @@ html, body {
 
 section a{
     text-decoration: none;
-    color: white;
+    color: rgb(137, 0, 57);
 }
 
 .menu a:hover, a.current {
