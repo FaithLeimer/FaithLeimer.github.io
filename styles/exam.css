@@ -62,7 +62,7 @@ body {
         column-rule-style: dotted;
         column-rule-color: rgb(12, 0, 185);
         column-rule-width: 3px;
-        position: relative;        
+        position: relative left;        
     }
     aside ol {
         list-style-type: upper-roman;
