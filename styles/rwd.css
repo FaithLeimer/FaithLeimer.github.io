@@ -157,7 +157,7 @@ footer{
         background-color: white;
         }
         .menu > li:not(:last-child) {
-        border-bottom: 1px solid #444;
+        border-bottom: 1px solid rgb(137, 0, 57);
         }
         article h2{
             font-size: 1.1em;
