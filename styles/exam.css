@@ -97,4 +97,5 @@ body {
     footer {
         text-align: center;
         font-size: 80%;
+        border-top: 2px solid rgb(12, 0, 185);
     }
