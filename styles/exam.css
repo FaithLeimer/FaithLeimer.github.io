@@ -85,7 +85,7 @@ body {
         border-style:solid;
         font-size: 90%;
         text-align: center;
-        margin-right:0%;
+        margin-right:2%;
         position: fixed center;
         z-index: 3 !important;
     }
