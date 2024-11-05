@@ -62,7 +62,7 @@ body {
         column-rule-style: dotted;
         column-rule-color: rgb(12, 0, 185);
         column-rule-width: 3px;
-        position: relative left;        
+        position: relative;        
     }
     aside ol {
         list-style-type: upper-roman;
@@ -86,7 +86,8 @@ body {
         border-style:solid;
         font-size: 90%;
         position: fixed;
-        z-index: 3 !important;
+        right: 5px;
+        z-index: 3;
     }
     footer {
         border-top: 2px solid rgb(12, 0, 185);
