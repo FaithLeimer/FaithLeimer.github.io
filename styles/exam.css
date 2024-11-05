@@ -85,8 +85,8 @@ body {
         border-style:solid;
         font-size: 90%;
         text-align: center;
-        margin-right:10px;
-        position: fixed;
+        margin-right:0%;
+        position: fixed center;
         z-index: 3 !important;
     }
     footer {
