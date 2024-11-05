@@ -57,7 +57,7 @@ body {
     }
     article {
         width: 75%;
-        margin-left:1%;
+        float: left;
         column-count: 3;
         column-rule-style: dotted;
         column-rule-color: rgb(12, 0, 185);
