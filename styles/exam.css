@@ -92,7 +92,7 @@ body {
         text-align: center;
         margin-right:-10px;
         position: fixed;
-        z-index: 3;
+        z-index: 3 !important;
     }
     footer {
         border-top: 2px solid rgb(12, 0, 185);
