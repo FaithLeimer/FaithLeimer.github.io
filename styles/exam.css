@@ -86,7 +86,7 @@ body {
         font-size: 90%;
         text-align: center;
         margin-right:2%;
-        position: fixed center;
+        position: fixed;
         z-index: 3 !important;
     }
     footer {
