@@ -65,7 +65,7 @@ body {
         column-rule-width: 3px;
         position: relative;
         z-index: 2;
-        border-bottom: 2px solid rgb(12, 0, 185);
+        
     }
     aside ol {
         list-style-type: upper-roman;
@@ -96,6 +96,7 @@ body {
         z-index: 3;
     }
     footer {
+        border-top: 2px solid rgb(12, 0, 185);
         text-align: center;
         font-size: 80%;
         
