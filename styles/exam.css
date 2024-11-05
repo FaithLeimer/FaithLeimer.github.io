@@ -65,7 +65,7 @@ body {
         column-rule-width: 3px;
         column-gap: 2em;
         position: relative;
-        z index: 2;
+        z-index: 2;
     }
     aside ol {
         list-style-type: upper-roman;
