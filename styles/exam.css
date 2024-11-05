@@ -95,7 +95,6 @@ body {
         z-index: 3;
     }
     footer {
-        column-span: all;
         text-align: center;
         font-size: 80%;
         
