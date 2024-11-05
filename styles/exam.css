@@ -64,6 +64,8 @@ body {
         column-rule-color: rgb(12, 0, 185);
         column-rule-width: 3px;
         column-gap: 2em;
+        position: relative;
+        z index: 2;
     }
     aside ol {
         list-style-type: upper-roman;
@@ -89,9 +91,9 @@ body {
         font-size: 90%;
         text-align: center;
         margin-right:-10px;
-        position: absolute;
+        position: fixed;
         right: 5px;
-        z-index: 2;
+        z-index: 3;
     }
     footer {
         text-align: center;
