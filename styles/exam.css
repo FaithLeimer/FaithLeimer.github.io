@@ -78,7 +78,7 @@ body {
         color: rgb(12, 0, 185);
     }
     section aside.fixed {
-        width:200px;
+        width:20%;
         min-height:100px;
         padding:15px;
         background-color:rgb(115, 176, 204);
@@ -87,6 +87,7 @@ body {
         font-size: 90%;
         position: fixed;
         right: 5px;
+        bottom:300px;
         z-index: 3;
     }
     footer {
