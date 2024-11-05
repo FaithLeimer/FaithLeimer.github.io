@@ -78,7 +78,7 @@ body {
         color: rgb(12, 0, 185);
     }
     section aside.fixed {
-        width:100px;
+        width:200px;
         min-height:100px;
         padding:15px;
         background-color:rgb(115, 176, 204);
