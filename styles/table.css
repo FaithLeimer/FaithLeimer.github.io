@@ -32,13 +32,13 @@ html, body {
         border: 2px solid purple;
     }
     table.second thead tr:first-child{     
-        border-bottom: 2px solid purple;
+        border-bottom: 2px solid rgb(255, 142, 12);
     }
     /*----------------------------------------------------------------*/
     table.third{
         vertical-align: top;
     }    
-    table.third thead{
+    table.third {
         border-top: 2px solid rgb(1, 86, 1);
         border-bottom: 2px solid rgb(1, 86, 1);
 
