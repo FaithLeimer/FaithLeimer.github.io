@@ -45,3 +45,6 @@ html, body {
         border-bottom: 2px solid rgb(1, 86, 1);
 
     }
+    table.third th{
+        background-color: rgb(151, 198, 139);
+    }
