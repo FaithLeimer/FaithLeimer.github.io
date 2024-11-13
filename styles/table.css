@@ -39,7 +39,7 @@ html, body {
         vertical-align: top;
     }    
     table.third th{
-        border-top: 2px rgb(1, 86, 1);
-        border-bottom: 2px rgb(1, 86, 1);
+        border-top: 2px solid rgb(1, 86, 1);
+        border-bottom: 2px solid rgb(1, 86, 1);
 
     }
