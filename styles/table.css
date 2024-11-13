@@ -40,7 +40,7 @@ html, body {
         border-top: 2px solid rgb(1, 86, 1);
         border-bottom: 2px solid rgb(1, 86, 1);
     }    
-    table.third {
-        
+    table.third thead tr:first-child{
+        border-bottom: 2px solid rgb(1, 86, 1);
 
     }
