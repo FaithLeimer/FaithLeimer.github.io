@@ -38,7 +38,7 @@ html, body {
     table.third{
         vertical-align: top;
     }    
-    table.third th{
+    table.third thead{
         border-top: 2px solid rgb(1, 86, 1);
         border-bottom: 2px solid rgb(1, 86, 1);
 
