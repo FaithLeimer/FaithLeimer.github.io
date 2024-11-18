@@ -44,3 +44,6 @@ textarea {
 #buttons input {
     width: 10em;
 }
+id.submit{
+    text-align: center;
+}
