@@ -18,6 +18,9 @@ label {
     width: 9em;
     /*text-align: right;*/
 }
+option{
+    float:right;
+}
 input, select {
     margin-left: .5em;
     margin-bottom: .5em;
