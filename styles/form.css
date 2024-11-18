@@ -16,7 +16,7 @@ label, input, select {
 label {
     float: left;
     width: 9em;
-    text-align: right;
+    /*text-align: right;*/
 }
 input, select {
     margin-left: .5em;
