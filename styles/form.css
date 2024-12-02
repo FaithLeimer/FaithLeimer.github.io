@@ -47,5 +47,6 @@ textarea {
 
 .button {
     display: inline-block;
+    align-items: center;
     margin: 0 auto;
 }
