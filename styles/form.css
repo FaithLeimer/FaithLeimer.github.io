@@ -46,5 +46,6 @@ textarea {
 }
 
 .bothbuttons {
-    align-content: center;
+    display:block;
+    margin: 0 auto;
 }
