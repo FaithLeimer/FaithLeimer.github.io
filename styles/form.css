@@ -45,8 +45,11 @@ textarea {
     width: 10em;
 }
 
-.button {
-    display: inline-block;
-    align-items: center;
-    margin: 0 auto;
+.buttoncontainer {
+    text-align:center;
+}
+
+.button{
+    display:inline-block;
+    
 }
