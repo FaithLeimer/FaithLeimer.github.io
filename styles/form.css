@@ -43,5 +43,8 @@ textarea {
 }
 #buttons input {
     width: 10em;
-    margin-left: 10%;
+}
+
+.bothbuttons {
+    align-content: center;
 }
